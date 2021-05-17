@@ -20,6 +20,8 @@ import com.cg.services.PaymentIMP;
 
 import io.swagger.annotations.Api;
 
+//This is a Payment Microservice module
+
 @RestController
 @RequestMapping("/Payment")
 @Api(tags = {"payment-controller"})
